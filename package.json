@@ -1,0 +1,10 @@
+{
+  "name": "recursostech",
+  "version": "0.1.0",
+  "description": "Recursos recopilados para compartir con la comunidad \ud83d\ude80 Open source, aportes bienvenidos \u2665\ufe0f",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

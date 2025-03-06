@@ -1,6 +1,6 @@
 {
   "name": "recursostech",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Recursos recopilados para compartir con la comunidad \ud83d\ude80 Open source, aportes bienvenidos \u2665\ufe0f",
   "main": "src/index.ts",
   "scripts": {
